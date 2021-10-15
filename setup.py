@@ -21,8 +21,8 @@ setup(
     long_description_content_type="text/markdown",
     author='TheSpeedX',
     author_email='skvinderr@gmail.com',
-    url='https://github.com/skvinderr/hellobomb',
-    download_url="https://github.com/TheSpeedX/TBomb/archive/pypi.zip",
+    url='https://github.com/skvinderr/helobomb',
+    download_url="https://github.com/skvinderr/helobomb/archive/refs/heads/pypi.zip",
         keywords=['android', 'spam', 'sms', 'mail', 'tbomb',
                   'call', 'bomb', 'termux', 'bomber', 'spammer'],
     classifiers=[
